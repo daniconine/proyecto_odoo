@@ -1,7 +1,7 @@
 # proyecto_odoo
 Desarrollo Odoo
 
-Creación de móulos
+Creación de módulos
 
 
 eveloper N° 1 : Daniel
